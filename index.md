@@ -40,3 +40,14 @@ L'utente può chiedere accesso, rettifica, cancellazione o limitazione dei propr
 
 ## Accesso all'app
 L'app non permette registrazioni pubbliche: gli account sono creati dall'Azienda.
+
+## Eliminazione dei dati (GBT_OP-Time)
+Per chiedere l'eliminazione dei propri dati dall'app GBT_OP-Time:
+
+1. Scrivi a **info@gbtoffshore.com** con oggetto "GBT_OP-Time – richiesta eliminazione dati".
+2. Indica nome, cognome e nome utente usato nell'app.
+3. Riceverai conferma entro 30 giorni.
+
+**Dati eliminati**: account (nome utente e PIN), impostazioni personali (logo, firma, luogo), attrezzature assegnate e dati salvati sul dispositivo.
+
+**Dati conservati**: ore lavorate, spese, ferie e assenze e buste paga restano conservati dall'Azienda per i tempi previsti dalla normativa fiscale e del lavoro (di norma 10 anni), poi vengono cancellati.
