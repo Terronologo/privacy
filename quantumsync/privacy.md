@@ -9,7 +9,7 @@ permalink: /quantumsync/privacy/
 
 Quantum Sync è un'app Android che sincronizza due cartelle scelte dall'utente (sul telefono, su server
 FTP/FTPS, SFTP, WebDAV, SMB o su Google Drive) e conserva le versioni precedenti dei file.
-[Presentazione dell'app](../)
+[Home page di Quantum Sync](https://terronologo.github.io/privacy/quantumsync/)
 
 ## Titolare e contatti
 Lo sviluppatore di Quantum Sync – email: marc.pantina@gmail.com

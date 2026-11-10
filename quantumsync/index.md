@@ -18,7 +18,7 @@ per un periodo configurabile, verifica dell'integrità e avvio automatico quando
 L'app non ha un server proprio e non usa account Quantum Sync: i file passano direttamente tra il telefono e
 le cartelle o i servizi che configuri tu.
 
-**[Informativa sulla privacy](privacy/)**
+**[Informativa sulla privacy (Privacy Policy)](https://terronologo.github.io/privacy/quantumsync/privacy/)**
 
 ---
 
@@ -29,4 +29,4 @@ versions of the files. Each folder can be a folder on the phone, an FTP/FTPS, SF
 **Google Drive** folder. The app has no server of its own: files travel directly between the phone and the
 folders or services you configure.
 
-**[Privacy policy](privacy/#english)**
+**[Privacy policy](https://terronologo.github.io/privacy/quantumsync/privacy/#english)**
